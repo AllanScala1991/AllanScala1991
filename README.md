@@ -37,7 +37,7 @@ Minhas Skills:
 </div>
     
 ##
-Minhas Maquina atual:
+Minha Maquina atual:
 <div>
   <img src="https://img.shields.io/badge/Windows_10-Dell_Vostro_3400-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   <img src="https://img.shields.io/badge/Intel-Core_i5_11th-1135G7?style=for-the-badge&logo=intel&logoColor=white">
