@@ -1,7 +1,7 @@
 ## Olá, eu sou o Allan Scala, bem vindo ao meu GitHub =)
 
-- 🔭 Atualmente estou desenvolvendo um sistema que gerencia despesas pessoais.
-- 🌱 Atualmente estou estudando TypeScript.
+- 🔭 Atualmente não estou desenvolvendo nenhum projeto pessoal.
+- 🌱 Atualmente estou estudando NextJS.
 - 👯 Atualmente trabalho com Testes Automatizados.
 - ⚡ Atualmente minha stack é full JS com Node, React e React Native.
 
