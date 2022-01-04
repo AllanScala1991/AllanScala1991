@@ -1,9 +1,9 @@
 ## Olá, eu sou o Allan Scala, bem vindo ao meu GitHub =)
 
 - 🔭 Atualmente não estou desenvolvendo nenhum projeto pessoal.
-- 🌱 Atualmente estou estudando NextJS.
+- 🌱 Atualmente estou estudando RobotFramework.
 - 👯 Atualmente trabalho com Testes Automatizados.
-- ⚡ Atualmente minha stack é full JS com Node, React e React Native.
+- ⚡ Atualmente minha stack é Javascript | Typescript | Python.
 
 ##
 
@@ -22,18 +22,15 @@ Minhas redes sociais:
 Minhas Skills:
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=whit">
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Cypress-007ACC?style=for-the-badge&logo=cypress&logoColor=white&color=black">
+  <img src="https://img.shields.io/badge/Playwright-007ACC?style=for-the-badge&logo=playwright&textColor=green&color=green">
+  <img src="https://img.shields.io/badge/CodeceptJS-007ACC?style=for-the-badge&logo=playwright&textColor=green&color=purple">
 </div>
     
 ##
