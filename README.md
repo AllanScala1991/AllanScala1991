@@ -1,7 +1,7 @@
 ## Olá, eu sou o Allan Scala, bem vindo ao meu GitHub =)
 
-- 🔭 Atualmente não estou desenvolvendo nenhum projeto pessoal.
-- 🌱 Atualmente estou estudando RobotFramework.
+- 🔭 Atualmente não estou desenvolvendo um Task Management com Node JS e React.
+- 🌱 Atualmente estou estudando Docker.
 - 👯 Atualmente trabalho com Testes Automatizados.
 - ⚡ Atualmente minha stack é Javascript | Typescript | Python.
 
@@ -36,9 +36,8 @@ Minhas Skills:
 ##
 Minha Maquina atual:
 <div>
-  <img src="https://img.shields.io/badge/Windows_10-PC_Gamer-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-  <img src="https://img.shields.io/badge/Intel-Core_i5_6400th-1135G7?style=for-the-badge&logo=intel&logoColor=white">
-  <img src="https://img.shields.io/badge/NVIDIA-GTX_1060_3gb-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
+  <img src="https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+  <img src="https://img.shields.io/badge/Intel-Core_i7_10510U-1135G7?style=for-the-badge&logo=intel&logoColor=white">
 </div>
 
 
