@@ -1,6 +1,6 @@
 ## Olá, eu sou o Allan Scala, bem vindo ao meu GitHub =)
 
-- 🔭 Atualmente não estou desenvolvendo um Client Management com Node JS e React.
+- 🔭 Atualmente estou desenvolvendo um Client Management com Node JS e React.
 - 🌱 Atualmente estou estudando Docker.
 - 👯 Atualmente trabalho com Testes Automatizados.
 - ⚡ Minha stack é Javascript | Typescript | Python.
