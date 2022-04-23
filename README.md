@@ -1,8 +1,8 @@
 ## Olá, eu sou o Allan Scala, bem vindo ao meu GitHub =)
 
-- 🔭 Atualmente estou desenvolvendo um Client Management com Node JS e React.
-- 🌱 Atualmente estou estudando Docker.
-- 👯 Atualmente trabalho com Testes Automatizados.
+- 🔭 Atualmente não estou trabalhando em nenhum projeto pessoal.
+- 🌱 Atualmente estou estudando React.
+- 👯 Atualmente trabalho com Testes Automatizados e Cypress.
 - ⚡ Minha stack é Javascript | Typescript | Python.
 
 ##
@@ -31,13 +31,14 @@ Minhas Skills:
   <img src="https://img.shields.io/badge/Cypress-007ACC?style=for-the-badge&logo=cypress&logoColor=white&color=black">
   <img src="https://img.shields.io/badge/Playwright-007ACC?style=for-the-badge&logo=playwright&textColor=green&color=green">
   <img src="https://img.shields.io/badge/CodeceptJS-007ACC?style=for-the-badge&logo=playwright&textColor=green&color=purple">
+  <img src="https://img.shields.io/badge/Docker-3776AB?style=for-the-badge&logo=docker&logoColor=white&color=blue">
 </div>
     
 ##
 Minha Maquina atual:
 <div>
   <img src="https://img.shields.io/badge/Asus_Zenbook_14-0078D6?style=for-the-badge&logo=asus&logoColor=white&color=black">
-  <img src="https://img.shields.io/badge/MacOS_Monterey_12--9cf?logo=Apple&style=social&color=black">
+  <img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white">
   <img src="https://img.shields.io/badge/Intel-Core_i7_10510U-1135G7?style=for-the-badge&logo=intel&logoColor=white">
 </div>
 
