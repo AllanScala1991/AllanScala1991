@@ -37,9 +37,7 @@ Minhas Skills:
 ##
 Minha Maquina atual:
 <div>
-  <img src="https://img.shields.io/badge/Asus_Zenbook_14-0078D6?style=for-the-badge&logo=asus&logoColor=white&color=black">
-  <img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white">
-  <img src="https://img.shields.io/badge/Intel-Core_i7_10510U-1135G7?style=for-the-badge&logo=intel&logoColor=white">
+  <img src="https://img.shields.io/badge/macbook%20air%20m1%202020-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0">
 </div>
 
 
