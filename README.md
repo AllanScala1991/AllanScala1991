@@ -7,9 +7,9 @@
 
 ##
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AllanScala1991&show_icons=true&theme=synthwave&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AllanScala1991&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllanScala1991&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllanScala1991)](https://github.com/AllanScala1991/github-readme-stats)
 
 ##
 Minhas redes sociais:
