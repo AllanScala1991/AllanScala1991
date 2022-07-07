@@ -1,9 +1,9 @@
 ## Olá, eu sou o Allan Scala, bem vindo ao meu GitHub =)
 
-- 🔭 Atualmente desenvolvendo uma plataforma Kanban.
-- 🌱 Atualmente estou estudando React.
-- 👯 Atualmente trabalho com Testes Automatizados e Cypress.
-- ⚡ Minha stack é Javascript | Typescript | Python.
+- 🔭 Atualmente desenvolvendo uma plataforma de quadros Kanban.
+- 🌱 Atualmente estou estudando React e Java.
+- 👯 Atualmente trabalho com Testes Automatizados.
+- ⚡ Minha stack é Javascript | Typescript | Python | Java.
 
 ##
 
