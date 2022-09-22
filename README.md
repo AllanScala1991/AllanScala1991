@@ -7,9 +7,11 @@
 
 ##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AllanScala1991&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllanScala1991)](https://github.com/AllanScala1991/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/AllanScala1991">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AllanScala1991&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanScala1991&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 ##
 Minhas redes sociais:
@@ -37,7 +39,7 @@ Minhas Skills:
 ##
 Minha Maquina atual:
 <div>
-  <img src="https://img.shields.io/badge/macbook%20air%20m1%202020-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0">
+  <img src="https://img.shields.io/badge/Dell%20G15%20Ryzen%20Edition-000000?style=for-the-badge&logo=windows&logoColor=F0F0F0">
 </div>
 
 
