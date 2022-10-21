@@ -1,8 +1,8 @@
 ## Olá, eu sou o Allan Scala, bem vindo ao meu GitHub =)
 
-- 🔭 Atualmente desenvolvendo uma API Rest com Java e Spring Boot.
-- 🌱 Atualmente estou estudando Java, Spring Boot e Rest Assured.
-- 👯 Atualmente trabalho com Testes Automatizados.
+- ⚡ Atualmente desenvolvendo uma API Rest com Java e Spring Boot.
+- ⚡ Atualmente estou estudando Java, Spring Boot e Rest Assured.
+- ⚡ Atualmente trabalho com Testes Automatizados.
 - ⚡ Minha stack é Javascript | Typescript | Python | Java.
 
 ##
