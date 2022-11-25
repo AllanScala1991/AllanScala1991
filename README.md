@@ -1,9 +1,9 @@
 ## Olá, eu sou o Allan Scala, bem vindo ao meu GitHub =)
 
-- ⚡ Atualmente desenvolvendo uma API Rest com Java e Spring Boot.
-- ⚡ Atualmente estou estudando Java, Spring Boot e Rest Assured.
+- ⚡ Atualmente desenvolvendo uma aplicação com micro serviços.
+- ⚡ Atualmente estou estudando Microservices e Mensageria(Kafka e RabbitMQ).
 - ⚡ Atualmente trabalho com Testes Automatizados.
-- ⚡ Minha stack é Javascript | Typescript | Python | Java.
+- ⚡ Minha stack é Javascript | Typescript | Java.
 
 ##
 
@@ -34,14 +34,14 @@ Minhas Skills:
   <img src="https://img.shields.io/badge/Playwright-007ACC?style=for-the-badge&logo=playwright&textColor=green&color=green">
   <img src="https://img.shields.io/badge/CodeceptJS-007ACC?style=for-the-badge&logo=playwright&textColor=green&color=purple">
   <img src="https://img.shields.io/badge/Docker-3776AB?style=for-the-badge&logo=docker&logoColor=white&color=blue">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 
 </div>
 
 ##
 Minha Maquina atual:
 <div>
-  <img src="https://img.shields.io/badge/Dell%20G15%20Ryzen%20Edition-000000?style=for-the-badge&logo=windows&logoColor=F0F0F0">
+  <img src="https://img.shields.io/badge/Asus%20Zenbook%2014-000000?style=for-the-badge&logo=windows&logoColor=F0F0F0">
 </div>
 
 
