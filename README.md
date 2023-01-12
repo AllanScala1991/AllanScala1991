@@ -6,14 +6,6 @@
 - ⚡ Minha stack é Javascript | Typescript | Java.
 
 ##
-
-<div align="center">
-  <a href="https://github.com/AllanScala1991">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AllanScala1991&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanScala1991&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-##
 Minhas redes sociais:
 <div>
   <a href="https://www.youtube.com/channel/UCq_Zkk3m2o3s-aYW0qKjCGw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
@@ -37,12 +29,5 @@ Minhas Skills:
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 
 </div>
-
-##
-Minha Maquina atual:
-<div>
-  <img src="https://img.shields.io/badge/Asus%20Zenbook%2014-000000?style=for-the-badge&logo=windows&logoColor=F0F0F0">
-</div>
-
 
 
