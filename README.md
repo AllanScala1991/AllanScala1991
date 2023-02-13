@@ -1,8 +1,7 @@
 ## Olá, eu sou o Allan Scala, bem vindo ao meu GitHub =)
 
-- ⚡ Atualmente desenvolvendo uma aplicação com micro serviços.
-- ⚡ Atualmente estou estudando Microservices e Mensageria(Kafka e RabbitMQ).
-- ⚡ Atualmente trabalho com Testes Automatizados.
+- ⚡ Atualmente estou estudando Mensageria com Kafka.
+- ⚡ Atualmente trabalho como QA com foco em Testes Automatizados.
 - ⚡ Minha stack é Javascript | Typescript | Java.
 
 ##
