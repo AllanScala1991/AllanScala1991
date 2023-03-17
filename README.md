@@ -1,6 +1,6 @@
 ## Olá, eu sou o Allan Scala, bem vindo ao meu GitHub =)
 
-- ⚡ Atualmente estou estudando Mensageria com Kafka.
+- ⚡ Atualmente estou estudando Gerenciamento e Qualidade de Software.
 - ⚡ Atualmente trabalho como QA com foco em Testes Automatizados.
 - ⚡ Minha stack é Javascript | Typescript | Java.
 
@@ -61,6 +61,6 @@ VERSIONAMENTO:
 ##
 SO
 <div>
-  <img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white">
+  <img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white">
 </div>
 
