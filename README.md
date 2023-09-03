@@ -1,7 +1,7 @@
 ## Olá, eu sou o Allan Scala, bem vindo ao meu GitHub =)
 
-- ⚡ Atualmente estou estudando cursando Analise e Desenvolvimento de Sistemas.
-- ⚡ Atualmente trabalho como QA com foco em Testes Automatizados.
+- ⚡ Atualmente estou cursando Analise e Desenvolvimento de Sistemas na Uninter.
+- ⚡ Trabalho como QA a 3 anos com foco em Testes Automatizados.
 - ⚡ Minha stack é Javascript | Typescript | Java.
 
 ##
